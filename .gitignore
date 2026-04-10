@@ -1,0 +1,4 @@
+hostinger_upload.zip
+*.zip
+node_modules/
+.env
